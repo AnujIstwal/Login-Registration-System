@@ -1,0 +1,61 @@
+body{
+	padding: 20px;
+}
+
+
+header{
+	text-align: center;
+}
+
+.container{
+	padding: 15px;
+	position: relative;
+	border-radius: 5px;
+	border: 1px solid #cacccf;
+}
+
+a{
+	text-decoration: none;
+}
+
+#login-container{
+		width:60%;
+	}
+
+@media only screen and (max-width: 600px){
+	#login-container{
+		width:100%;
+	}
+}
+
+#signup-container{
+	width: 60%;
+}
+
+.my-butt{
+	width:40%; 
+	margin: 1%; 
+	border-radius: 8px;
+} 
+@media only screen and (max-width: 768px){
+	.my-butt{
+		width:100%;
+	}
+}
+
+@media only screen and (max-width: 600px){
+	#signup-container{
+		width:100%;
+	}
+}
+
+#spinner{
+	background: url('images/spinner.gif') no-repeat center center;
+	background-color: #ffffff;
+	position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    z-index: 9999999;
+}
