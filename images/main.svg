@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="150mm"
+   height="150mm"
+   viewBox="0 0 150 150"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="main.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="mm"
+     width="399mm"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="0.32693272"
+     inkscape:cx="139.17237"
+     inkscape:cy="238.5812"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3014">
+      <stop
+         style="stop-color:#ff0066;stop-opacity:1;"
+         offset="0"
+         id="stop3010" />
+      <stop
+         style="stop-color:#a9005e;stop-opacity:1"
+         offset="1"
+         id="stop3012" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect1762"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect15041"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3014"
+       id="linearGradient3016"
+       x1="2.4516728"
+       y1="73.473003"
+       x2="134.74334"
+       y2="73.473003"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.76208639,0,0,0.76208639,22.901206,18.910863)" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter3952"
+       x="-0.10918117"
+       y="-0.10955355"
+       width="1.2183623"
+       height="1.2191071">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.8844882"
+         id="feGaussianBlur3954" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:url(#linearGradient3016);fill-opacity:1;fill-rule:nonzero;stroke-width:1.39999;paint-order:markers stroke fill"
+       id="rect1466"
+       width="100.81768"
+       height="100.81768"
+       x="24.769592"
+       y="24.494797"
+       ry="16.329861" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:88.2774px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#800033;stroke-width:0.264584;filter:url(#filter3952)"
+       x="37.479202"
+       y="110.32023"
+       id="text1781"
+       transform="scale(1.0923926,0.91542181)"><tspan
+         sodipodi:role="line"
+         id="tspan1779"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:88.2774px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#800033;stroke-width:0.264584"
+         x="37.479202"
+         y="110.32023">A</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:88.2774px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#f2f2f2;stroke-width:0.264584"
+       x="37.445606"
+       y="109.11105"
+       id="text1781-3"
+       transform="scale(1.0923926,0.9154218)"><tspan
+         sodipodi:role="line"
+         id="tspan1779-5"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:88.2774px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#f2f2f2;stroke-width:0.264584"
+         x="37.445606"
+         y="109.11105">A</tspan></text>
+    <path
+       id="path2460"
+       style="fill:#ff0066;stroke-width:1.4;paint-order:markers stroke fill"
+       inkscape:transform-center-x="1.1345337"
+       inkscape:transform-center-y="-2.7291715"
+       d="m 27.919428,30.400542 0.220521,85.309718 C 23.472533,118.99468 28.848334,78.252662 5.5839341,69.598927 28.599547,52.100605 23.591007,42.045266 27.919428,30.400542 Z"
+       sodipodi:nodetypes="cccc" />
+  </g>
+</svg>
